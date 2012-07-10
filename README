@@ -1,6 +1,5 @@
 
 
-
    d8b 8888888888                                888                  
    Y8P 888                                       888                  
        888                                       888                  
@@ -14,11 +13,10 @@
 888P" 
 
 
-
-
 A Basic FFMPEG Wrapper For OSX
-
 
 Created By Josh Luongo
 
 ( C ) 2012 
+
+Licensed Under The Apache License, Version 2.0 
